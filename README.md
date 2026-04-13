@@ -2,7 +2,7 @@
 <h3 align="center">⚛️ Physics Graduate | Data Analyst | Scientific Computing Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Physics+%7C+Data+Analysis+%7C+CERN+Projects;Python+%7C+MATLAB+%7C+C%2B%2B;Turning+Data+into+Discoveries&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Physics+%7C+Data+Analysis+%7C+CERN+Project;Python+%7C+MATLAB+%7C+C%2B%2B;Turning+Data+into+Discoveries&center=true&width=500&height=45">
 </p>
 
 <hr>
